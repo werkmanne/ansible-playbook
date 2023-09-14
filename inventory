@@ -1,7 +1,7 @@
-10.0.3.251
-10.0.2.40
+10.0.2.254
+10.0.3.36
 
 
 
 [all:vars]
-ansible_python_interpreter=/usr/bin/python2.7
+ansible_python_interpreter=/usr/bin/python3
