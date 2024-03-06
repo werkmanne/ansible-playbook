@@ -92,21 +92,6 @@ See Project Reference Architecture below.
 
 
 
-![image](https://user-images.githubusercontent.com/115881685/228837816-a117c273-b750-4c53-a428-83fb3572ac4c.png)
-
-
-
-
-![image](https://user-images.githubusercontent.com/115881685/228838091-b7fac26e-0a45-4c21-9c07-77512e92fcef.png)
-
-
-
-
-![image](https://user-images.githubusercontent.com/115881685/228838210-e0ab890c-6317-423f-8f57-aac0ee428556.png)
-
-
-
-
 ![image](https://user-images.githubusercontent.com/115881685/228839046-b38e8223-fdd1-47da-b394-8b9e04201885.png)
 
 
@@ -116,8 +101,6 @@ See Project Reference Architecture below.
 
 
 
-
-![image](https://user-images.githubusercontent.com/115881685/228839344-83c7a5c5-7e6c-4045-8e51-8efa6f2cf47d.png)
 
 
 
