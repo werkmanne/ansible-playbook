@@ -43,7 +43,7 @@ See Project Reference Architecture below.
 
 
 
-![image](https://user-images.githubusercontent.com/115881685/228835494-3b93ef1e-2b84-4483-b935-d64caa15fc61.png)
+![image](https://github.com/werkmanne/ansible-playbook/blob/main/228835494-3b93ef1e-2b84-4483-b935-d64caa15fc61.png)
 
 
 
