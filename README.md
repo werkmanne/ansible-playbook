@@ -97,7 +97,7 @@ See Project Reference Architecture below.
 
 
 
-![image](https://user-images.githubusercontent.com/115881685/228839218-d53ca380-cbb0-430b-be91-0b82465977d2.png)
+![image](https://github.com/werkmanne/ansible-playbook/blob/main/228839218-d53ca380-cbb0-430b-be91-0b82465977d2.png)
 
 
 
