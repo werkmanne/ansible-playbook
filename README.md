@@ -87,15 +87,6 @@ See Project Reference Architecture below.
 
 
 
-![image](https://user-images.githubusercontent.com/115881685/228837287-b1902e2b-06fa-4a10-8294-833f22239cfd.png)
-
-
-
-
-![image](https://user-images.githubusercontent.com/115881685/228837407-4cb6ab1c-1d0a-4741-9a47-985c59f1412e.png)
-
-
-
 ![image](https://user-images.githubusercontent.com/115881685/228837599-6ee4067e-8358-4209-a7db-4cea4a424ec4.png)
 
 
